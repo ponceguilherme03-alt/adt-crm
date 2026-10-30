@@ -1,0 +1,5 @@
+git add .
+git commit -m "Meu primeiro CRM ADT"
+git branch -M main
+git remote add origin https://github.com/SEU_USUARIO/adt-crm.git
+git push -u origin main
